@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Trying Times",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-020-48c286b34e53380d46803c2e5603a5b2.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(31, 34, 61)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(8, 11, 33)",
+      "tab_background_text": "rgb(215, 226, 239)",
+      "toolbar_field": "rgb(54, 58, 89)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(205, 35, 185)",
+      "popup": "rgb(31, 34, 61)",
+      "popup_text": "rgb(215, 226, 239)",
+      "tab_loading": "rgb(205, 35, 185)"
+    }
+  }
+}
