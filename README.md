@@ -1,2 +1,3 @@
-# firefox-theme-trying-times
-Firefox Theme.
+# Trying Times
+
+A Firefox Theme.
